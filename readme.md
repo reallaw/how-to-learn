@@ -1,4 +1,15 @@
-name: how to learn
-description: this site is intended for those, who want know how to learn
-technologies: flex and other
-v. 2
+# Проект: Как научиться учиться?
+
+### Для кого проект?
+
+*Проект создан для тех людей, которые хотят научиться учиться*
+
+**Технологии**
+
+* HTML
+* CSS
+* Flex
+
+V. 1.0025 readme.md edit
+
+https://reallaw.github.io/how-to-learn/
